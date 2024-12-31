@@ -1,0 +1,69 @@
+{"error":"Url is not a valid URL: undefined/twiml/order-confirmation?orderId=10266","level":"error","message":"Twilio call failed","orderId":10266,"timestamp":"2024-12-30T10:04:58.310Z"}
+{"error":"Url is not a valid URL: undefined/twiml/order-confirmation?orderId=10266","level":"error","message":"Error processing order","orderId":10266,"timestamp":"2024-12-30T10:04:58.311Z"}
+{"error":"E11000 duplicate key error collection: COD.orders index: orderId_1 dup key: { orderId: \"10266\" }","level":"error","message":"Error processing order","orderId":10266,"timestamp":"2024-12-30T10:07:56.041Z"}
+{"error":"E11000 duplicate key error collection: COD.orders index: orderId_1 dup key: { orderId: \"102466\" }","level":"error","message":"Error processing order","orderId":102466,"timestamp":"2024-12-30T10:10:08.401Z"}
+{"error":"E11000 duplicate key error collection: COD.orders index: orderId_1 dup key: { orderId: \"102000000\" }","level":"error","message":"Error processing order","orderId":102000000,"timestamp":"2024-12-30T10:22:06.985Z"}
+{"error":"E11000 duplicate key error collection: COD.orders index: orderId_1 dup key: { orderId: \"34234\" }","level":"error","message":"Error processing order","orderId":34234,"timestamp":"2024-12-30T10:25:30.574Z"}
+{"error":"E11000 duplicate key error collection: COD.orders index: orderId_1 dup key: { orderId: \"34245634\" }","level":"error","message":"Error processing order","orderId":34245634,"timestamp":"2024-12-30T10:30:13.190Z"}
+{"error":"E11000 duplicate key error collection: COD.orders index: orderId_1 dup key: { orderId: \"34556\" }","level":"error","message":"Error processing order","orderId":34556,"timestamp":"2024-12-30T10:43:03.373Z"}
+{"error":"E11000 duplicate key error collection: COD.orders index: orderId_1 dup key: { orderId: \"34311\" }","level":"error","message":"Error processing order","orderId":34311,"timestamp":"2024-12-30T11:22:33.340Z"}
+{"error":"E11000 duplicate key error collection: COD.orders index: orderId_1 dup key: { orderId: \"343664411\" }","level":"error","message":"Error processing order","orderId":343664411,"timestamp":"2024-12-30T11:28:46.334Z"}
+{"error":"Authenticate","level":"error","message":"Twilio call failed","orderId":"677283f7b41038297d64af2e","timestamp":"2024-12-30T11:28:55.986Z"}
+{"error":"Authenticate","level":"error","message":"Error processing order","orderId":3436643454411,"timestamp":"2024-12-30T11:28:55.988Z"}
+{"error":"Authenticate","level":"error","message":"Twilio call failed","orderId":"67728419b41038297d64af31","timestamp":"2024-12-30T11:29:29.812Z"}
+{"error":"Authenticate","level":"error","message":"Error processing order","orderId":123431,"timestamp":"2024-12-30T11:29:29.814Z"}
+{"error":"E11000 duplicate key error collection: COD.orders index: orderId_1 dup key: { orderId: \"123431\" }","level":"error","message":"Error processing order","orderId":123431,"timestamp":"2024-12-30T11:29:48.771Z"}
+{"error":"Authenticate","level":"error","message":"Twilio call failed","orderId":"6772843cb41038297d64af37","timestamp":"2024-12-30T11:32:37.598Z"}
+{"error":"Authenticate","level":"error","message":"Error processing order","orderId":1234345331,"timestamp":"2024-12-30T11:32:37.600Z"}
+{"error":"E11000 duplicate key error collection: COD.orders index: orderId_1 dup key: { orderId: \"1234345331\" }","level":"error","message":"Error processing order","orderId":1234345331,"timestamp":"2024-12-30T11:33:39.716Z"}
+{"error":"Authenticate","level":"error","message":"Twilio call failed","orderId":"67728517b5473ac0dd7e0e7d","timestamp":"2024-12-30T11:33:44.489Z"}
+{"error":"Authenticate","level":"error","message":"Error processing order","orderId":123434555331,"timestamp":"2024-12-30T11:33:44.490Z"}
+{"error":"E11000 duplicate key error collection: COD.orders index: orderId_1 dup key: { orderId: \"123434555331\" }","level":"error","message":"Error processing order","orderId":123434555331,"timestamp":"2024-12-30T11:33:59.721Z"}
+{"error":"Authenticate","level":"error","message":"Twilio call failed","orderId":"6772852bb5473ac0dd7e0e83","timestamp":"2024-12-30T11:34:05.713Z"}
+{"error":"Authenticate","level":"error","message":"Error processing order","orderId":12343455545331,"timestamp":"2024-12-30T11:34:32.518Z"}
+{"error":"Authenticate","level":"error","message":"Twilio call failed","orderId":"6772854cb5473ac0dd7e0e86","timestamp":"2024-12-30T11:37:09.763Z"}
+{"error":"Authenticate","level":"error","message":"Error processing order","orderId":645645,"timestamp":"2024-12-30T11:37:09.766Z"}
+{"error":"E11000 duplicate key error collection: COD.orders index: orderId_1 dup key: { orderId: \"645645\" }","level":"error","message":"Error processing order","orderId":645645,"timestamp":"2024-12-30T11:37:09.793Z"}
+{"error":"Authenticate","level":"error","message":"Twilio call failed","orderId":"677285edb5473ac0dd7e0e8c","timestamp":"2024-12-30T11:37:17.936Z"}
+{"error":"Authenticate","level":"error","message":"Error processing order","orderId":64563445,"timestamp":"2024-12-30T11:37:17.938Z"}
+{"error":"The source phone number provided, +12184323334, is not yet verified for your account. You may only make calls from phone numbers that you've verified or purchased from Twilio.","level":"error","message":"Twilio call failed","orderId":"67728604f119121a47429a20","timestamp":"2024-12-30T11:37:40.789Z"}
+{"error":"The source phone number provided, +12184323334, is not yet verified for your account. You may only make calls from phone numbers that you've verified or purchased from Twilio.","level":"error","message":"Error processing order","orderId":645563445,"timestamp":"2024-12-30T11:37:40.792Z"}
+{"error":"Authenticate","level":"error","message":"Twilio call failed","orderId":"6772864f8116e8d17aa70b60","timestamp":"2024-12-30T11:38:55.938Z"}
+{"error":"Authenticate","level":"error","message":"Error processing order","orderId":64556345445,"timestamp":"2024-12-30T11:38:55.939Z"}
+{"error":"Authenticate","level":"error","message":"Twilio call failed","orderId":"677286e35e5f15649b784447","timestamp":"2024-12-30T11:41:23.930Z"}
+{"error":"Authenticate","level":"error","message":"Error processing order","orderId":645456345445,"timestamp":"2024-12-30T11:41:23.933Z"}
+{"error":"E11000 duplicate key error collection: COD.orders index: orderId_1 dup key: { orderId: \"645456345445\" }","level":"error","message":"Error processing order","orderId":645456345445,"timestamp":"2024-12-30T11:41:58.366Z"}
+{"error":"Authenticate","level":"error","message":"Twilio call failed","orderId":"6772870a5e5f15649b78444d","timestamp":"2024-12-30T11:42:27.329Z"}
+{"error":"Authenticate","level":"error","message":"Error processing order","orderId":64545634445445,"timestamp":"2024-12-30T11:42:27.332Z"}
+{"error":"E11000 duplicate key error collection: COD.orders index: orderId_1 dup key: { orderId: \"64545634445445\" }","level":"error","message":"Error processing order","orderId":64545634445445,"timestamp":"2024-12-30T11:52:24.554Z"}
+{"error":"E11000 duplicate key error collection: COD.orders index: orderId_1 dup key: { orderId: \"64545634445445\" }","level":"error","message":"Error processing order","orderId":64545634445445,"timestamp":"2024-12-30T11:52:48.726Z"}
+{"error":"Authenticate","level":"error","message":"Twilio call failed","orderId":"677289945e5f15649b784456","timestamp":"2024-12-30T11:56:28.777Z"}
+{"error":"Authenticate","level":"error","message":"Error processing order","orderId":45666,"timestamp":"2024-12-30T11:56:28.781Z"}
+{"error":"E11000 duplicate key error collection: COD.orders index: orderId_1 dup key: { orderId: \"45666\" }","level":"error","message":"Error processing order","orderId":45666,"timestamp":"2024-12-30T11:56:47.017Z"}
+{"error":"E11000 duplicate key error collection: COD.orders index: orderId_1 dup key: { orderId: \"45655566\" }","level":"error","message":"Error processing order","orderId":45655566,"timestamp":"2024-12-30T11:58:07.633Z"}
+{"error":"Order ID is missing","level":"error","message":"Error generating TwiML","timestamp":"2024-12-30T12:00:40.737Z"}
+{"error":"Order ID is missing","level":"error","message":"Error generating TwiML","timestamp":"2024-12-30T12:01:14.032Z"}
+{"error":"Order ID is missing","level":"error","message":"Error generating TwiML","timestamp":"2024-12-30T12:02:54.364Z"}
+{"error":"E11000 duplicate key error collection: COD.orders index: orderId_1 dup key: { orderId: \"66666\" }","level":"error","message":"Error processing order","orderId":66666,"timestamp":"2024-12-30T12:04:08.152Z"}
+{"error":"E11000 duplicate key error collection: COD.orders index: orderId_1 dup key: { orderId: \"567567\" }","level":"error","message":"Error processing order","orderId":567567,"timestamp":"2024-12-30T12:04:49.696Z"}
+{"error":"E11000 duplicate key error collection: COD.orders index: orderId_1 dup key: { orderId: \"5647456567\" }","level":"error","message":"Error processing order","orderId":5647456567,"timestamp":"2024-12-30T12:08:56.819Z"}
+{"error":"E11000 duplicate key error collection: COD.orders index: orderId_1 dup key: { orderId: \"565474565567\" }","level":"error","message":"Error processing order","orderId":565474565567,"timestamp":"2024-12-30T12:23:12.927Z"}
+{"error":"E11000 duplicate key error collection: COD.orders index: orderId_1 dup key: { orderId: \"44333\" }","level":"error","message":"Error processing order","orderId":44333,"timestamp":"2024-12-30T12:27:13.579Z"}
+{"error":"Phone number missing from order","level":"error","message":"Error processing order","timestamp":"2024-12-30T12:33:31.979Z"}
+{"error":"The source phone number provided, +12184323334, is not yet verified for your account. You may only make calls from phone numbers that you've verified or purchased from Twilio.","level":"error","message":"Twilio call failed","orderId":"677296a1f4aab9095b28ee75","timestamp":"2024-12-30T12:48:34.941Z"}
+{"error":"The source phone number provided, +12184323334, is not yet verified for your account. You may only make calls from phone numbers that you've verified or purchased from Twilio.","level":"error","message":"Error processing order","orderId":45544545,"timestamp":"2024-12-30T12:48:34.945Z"}
+{"error":"E11000 duplicate key error collection: COD.orders index: orderId_1 dup key: { orderId: \"45544545\" }","level":"error","message":"Error processing order","orderId":45544545,"timestamp":"2024-12-30T12:49:50.452Z"}
+{"error":"The source phone number provided, +12184323334, is not yet verified for your account. You may only make calls from phone numbers that you've verified or purchased from Twilio.","level":"error","message":"Twilio call failed","orderId":"677296f4f4aab9095b28ee7b","timestamp":"2024-12-30T12:49:57.329Z"}
+{"error":"The source phone number provided, +12184323334, is not yet verified for your account. You may only make calls from phone numbers that you've verified or purchased from Twilio.","level":"error","message":"Error processing order","orderId":345345345,"timestamp":"2024-12-30T12:49:57.332Z"}
+{"error":"E11000 duplicate key error collection: COD.orders index: orderId_1 dup key: { orderId: \"345345345\" }","level":"error","message":"Error processing order","orderId":345345345,"timestamp":"2024-12-30T12:51:29.317Z"}
+{"error":"E11000 duplicate key error collection: COD.orders index: orderId_1 dup key: { orderId: \"345333345345\" }","level":"error","message":"Error processing order","orderId":345333345345,"timestamp":"2024-12-30T12:55:04.213Z"}
+{"error":"Authenticate","level":"error","message":"Twilio call failed","orderId":"6772982f829c6036ecad71ac","timestamp":"2024-12-30T12:55:12.119Z"}
+{"error":"Authenticate","level":"error","message":"Error processing order","orderId":5545533,"timestamp":"2024-12-30T12:55:12.120Z"}
+{"error":"E11000 duplicate key error collection: COD.orders index: orderId_1 dup key: { orderId: \"5545533\" }","level":"error","message":"Error processing order","orderId":5545533,"timestamp":"2024-12-30T12:59:44.602Z"}
+{"error":"Authenticate","level":"error","message":"Twilio call failed","orderId":"67729947829c6036ecad71b2","timestamp":"2024-12-30T12:59:52.175Z"}
+{"error":"Authenticate","level":"error","message":"Error processing order","orderId":554553443,"timestamp":"2024-12-30T12:59:52.176Z"}
+{"error":"Authenticate","level":"error","message":"Twilio call failed","orderId":"6772994c829c6036ecad71b5","timestamp":"2024-12-30T12:59:57.010Z"}
+{"error":"Authenticate","level":"error","message":"Error processing order","orderId":55423553443,"timestamp":"2024-12-30T12:59:57.012Z"}
+{"error":"Authenticate","level":"error","message":"Twilio call failed","orderId":"6772995b829c6036ecad71b8","timestamp":"2024-12-30T13:00:11.855Z"}
+{"error":"Authenticate","level":"error","message":"Error processing order","orderId":2323,"timestamp":"2024-12-30T13:00:11.856Z"}
+{"error":"E11000 duplicate key error collection: COD.orders index: orderId_1 dup key: { orderId: \"2323\" }","level":"error","message":"Error processing order","orderId":2323,"timestamp":"2024-12-30T13:00:38.077Z"}

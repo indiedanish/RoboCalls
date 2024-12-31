@@ -1,0 +1,243 @@
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-30T09:47:50.352Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-30T09:48:44.861Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-30T10:04:33.124Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-12-30T10:04:33.151Z"}
+{"level":"info","message":"Order saved to database","orderId":10266,"timestamp":"2024-12-30T10:04:56.436Z"}
+{"error":"Url is not a valid URL: undefined/twiml/order-confirmation?orderId=10266","level":"error","message":"Twilio call failed","orderId":10266,"timestamp":"2024-12-30T10:04:58.310Z"}
+{"error":"Url is not a valid URL: undefined/twiml/order-confirmation?orderId=10266","level":"error","message":"Error processing order","orderId":10266,"timestamp":"2024-12-30T10:04:58.311Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-30T10:07:52.029Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-12-30T10:07:52.044Z"}
+{"error":"E11000 duplicate key error collection: COD.orders index: orderId_1 dup key: { orderId: \"10266\" }","level":"error","message":"Error processing order","orderId":10266,"timestamp":"2024-12-30T10:07:56.041Z"}
+{"level":"info","message":"Order saved to database","orderId":102466,"timestamp":"2024-12-30T10:08:04.130Z"}
+{"callSid":"CAea3daa25805ba9d665a00f52eb2eb6a9","level":"info","message":"Twilio call initiated","orderId":102466,"timestamp":"2024-12-30T10:08:04.908Z"}
+{"error":"E11000 duplicate key error collection: COD.orders index: orderId_1 dup key: { orderId: \"102466\" }","level":"error","message":"Error processing order","orderId":102466,"timestamp":"2024-12-30T10:10:08.401Z"}
+{"level":"info","message":"Order saved to database","orderId":102000000,"timestamp":"2024-12-30T10:10:13.043Z"}
+{"callSid":"CA71d658a86fd2366ad4fdc6c0fa5db1b1","level":"info","message":"Twilio call initiated","orderId":102000000,"timestamp":"2024-12-30T10:10:13.460Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-30T10:20:54.329Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-12-30T10:20:54.364Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-30T10:21:55.408Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-12-30T10:21:55.427Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-30T10:22:03.669Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-12-30T10:22:03.695Z"}
+{"error":"E11000 duplicate key error collection: COD.orders index: orderId_1 dup key: { orderId: \"102000000\" }","level":"error","message":"Error processing order","orderId":102000000,"timestamp":"2024-12-30T10:22:06.985Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-30T10:22:32.288Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-12-30T10:22:32.308Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-30T10:22:51.282Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-12-30T10:22:51.312Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-30T10:22:54.586Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-12-30T10:22:54.616Z"}
+{"level":"info","message":"Order saved to database","orderId":34234,"timestamp":"2024-12-30T10:23:24.938Z"}
+{"callSid":"CA3062d2710a6bf0c6be0a90ca486be22a","level":"info","message":"Twilio call initiated","orderId":34234,"timestamp":"2024-12-30T10:23:25.517Z"}
+{"error":"E11000 duplicate key error collection: COD.orders index: orderId_1 dup key: { orderId: \"34234\" }","level":"error","message":"Error processing order","orderId":34234,"timestamp":"2024-12-30T10:25:30.574Z"}
+{"level":"info","message":"Order saved to database","orderId":34245634,"timestamp":"2024-12-30T10:25:34.353Z"}
+{"callSid":"CAd504d5635cf2d48cc43db9fa90b8fd32","level":"info","message":"Twilio call initiated","orderId":34245634,"timestamp":"2024-12-30T10:25:34.987Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-30T10:29:50.346Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-12-30T10:29:50.382Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-30T10:29:59.012Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-12-30T10:29:59.035Z"}
+{"error":"E11000 duplicate key error collection: COD.orders index: orderId_1 dup key: { orderId: \"34245634\" }","level":"error","message":"Error processing order","orderId":34245634,"timestamp":"2024-12-30T10:30:13.190Z"}
+{"level":"info","message":"Order saved to database","orderId":34556,"timestamp":"2024-12-30T10:30:21.190Z"}
+{"callSid":"CAeb5bb403746611f9cedb708df7163c09","level":"info","message":"Twilio call initiated","orderId":"6772763db0f39fff9f4c35b9","timestamp":"2024-12-30T10:30:21.948Z"}
+{"error":"E11000 duplicate key error collection: COD.orders index: orderId_1 dup key: { orderId: \"34556\" }","level":"error","message":"Error processing order","orderId":34556,"timestamp":"2024-12-30T10:43:03.373Z"}
+{"level":"info","message":"Order saved to database","orderId":343556,"timestamp":"2024-12-30T10:43:07.714Z"}
+{"callSid":"CAc5e2ec2894bb8eefb0b5ad1c87b17099","level":"info","message":"Twilio call initiated","orderId":"6772793bb0f39fff9f4c35c0","timestamp":"2024-12-30T10:43:08.131Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-30T10:48:40.390Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-12-30T10:48:40.413Z"}
+{"level":"info","message":"Order saved to database","orderId":34311,"timestamp":"2024-12-30T11:20:07.550Z"}
+{"callSid":"CAca4074b47e39ac815f49f032a4f94d5e","level":"info","message":"Twilio call initiated","orderId":"677281e728d344ee5cb6922b","timestamp":"2024-12-30T11:20:09.647Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-30T11:22:04.926Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-12-30T11:22:04.965Z"}
+{"error":"E11000 duplicate key error collection: COD.orders index: orderId_1 dup key: { orderId: \"34311\" }","level":"error","message":"Error processing order","orderId":34311,"timestamp":"2024-12-30T11:22:33.340Z"}
+{"level":"info","message":"Order saved to database","orderId":3434411,"timestamp":"2024-12-30T11:22:49.203Z"}
+{"callSid":"CA2e113d715ee4575062288887949ab6d8","level":"info","message":"Twilio call initiated","orderId":"67728289b41038297d64af23","timestamp":"2024-12-30T11:25:27.373Z"}
+{"level":"info","message":"Order saved to database","orderId":343664411,"timestamp":"2024-12-30T11:25:36.437Z"}
+{"callSid":"CAe74de4cd65c1fbf88176d2cc48b5e764","level":"info","message":"Twilio call initiated","orderId":"67728330b41038297d64af27","timestamp":"2024-12-30T11:26:23.061Z"}
+{"error":"E11000 duplicate key error collection: COD.orders index: orderId_1 dup key: { orderId: \"343664411\" }","level":"error","message":"Error processing order","orderId":343664411,"timestamp":"2024-12-30T11:28:46.334Z"}
+{"level":"info","message":"Order saved to database","orderId":3436643454411,"timestamp":"2024-12-30T11:28:55.557Z"}
+{"error":"Authenticate","level":"error","message":"Twilio call failed","orderId":"677283f7b41038297d64af2e","timestamp":"2024-12-30T11:28:55.986Z"}
+{"error":"Authenticate","level":"error","message":"Error processing order","orderId":3436643454411,"timestamp":"2024-12-30T11:28:55.988Z"}
+{"level":"info","message":"Order saved to database","orderId":123431,"timestamp":"2024-12-30T11:29:29.280Z"}
+{"error":"Authenticate","level":"error","message":"Twilio call failed","orderId":"67728419b41038297d64af31","timestamp":"2024-12-30T11:29:29.812Z"}
+{"error":"Authenticate","level":"error","message":"Error processing order","orderId":123431,"timestamp":"2024-12-30T11:29:29.814Z"}
+{"error":"E11000 duplicate key error collection: COD.orders index: orderId_1 dup key: { orderId: \"123431\" }","level":"error","message":"Error processing order","orderId":123431,"timestamp":"2024-12-30T11:29:48.771Z"}
+{"level":"info","message":"Order saved to database","orderId":1234345331,"timestamp":"2024-12-30T11:30:04.255Z"}
+{"error":"Authenticate","level":"error","message":"Twilio call failed","orderId":"6772843cb41038297d64af37","timestamp":"2024-12-30T11:32:37.598Z"}
+{"error":"Authenticate","level":"error","message":"Error processing order","orderId":1234345331,"timestamp":"2024-12-30T11:32:37.600Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-30T11:33:06.365Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-12-30T11:33:06.383Z"}
+{"error":"E11000 duplicate key error collection: COD.orders index: orderId_1 dup key: { orderId: \"1234345331\" }","level":"error","message":"Error processing order","orderId":1234345331,"timestamp":"2024-12-30T11:33:39.716Z"}
+{"level":"info","message":"Order saved to database","orderId":123434555331,"timestamp":"2024-12-30T11:33:43.860Z"}
+{"error":"Authenticate","level":"error","message":"Twilio call failed","orderId":"67728517b5473ac0dd7e0e7d","timestamp":"2024-12-30T11:33:44.489Z"}
+{"error":"Authenticate","level":"error","message":"Error processing order","orderId":123434555331,"timestamp":"2024-12-30T11:33:44.490Z"}
+{"error":"E11000 duplicate key error collection: COD.orders index: orderId_1 dup key: { orderId: \"123434555331\" }","level":"error","message":"Error processing order","orderId":123434555331,"timestamp":"2024-12-30T11:33:59.721Z"}
+{"level":"info","message":"Order saved to database","orderId":12343455545331,"timestamp":"2024-12-30T11:34:03.550Z"}
+{"error":"Authenticate","level":"error","message":"Twilio call failed","orderId":"6772852bb5473ac0dd7e0e83","timestamp":"2024-12-30T11:34:05.713Z"}
+{"error":"Authenticate","level":"error","message":"Error processing order","orderId":12343455545331,"timestamp":"2024-12-30T11:34:32.518Z"}
+{"level":"info","message":"Order saved to database","orderId":645645,"timestamp":"2024-12-30T11:34:36.852Z"}
+{"error":"Authenticate","level":"error","message":"Twilio call failed","orderId":"6772854cb5473ac0dd7e0e86","timestamp":"2024-12-30T11:37:09.763Z"}
+{"error":"Authenticate","level":"error","message":"Error processing order","orderId":645645,"timestamp":"2024-12-30T11:37:09.766Z"}
+{"error":"E11000 duplicate key error collection: COD.orders index: orderId_1 dup key: { orderId: \"645645\" }","level":"error","message":"Error processing order","orderId":645645,"timestamp":"2024-12-30T11:37:09.793Z"}
+{"level":"info","message":"Order saved to database","orderId":64563445,"timestamp":"2024-12-30T11:37:17.343Z"}
+{"error":"Authenticate","level":"error","message":"Twilio call failed","orderId":"677285edb5473ac0dd7e0e8c","timestamp":"2024-12-30T11:37:17.936Z"}
+{"error":"Authenticate","level":"error","message":"Error processing order","orderId":64563445,"timestamp":"2024-12-30T11:37:17.938Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-30T11:37:33.829Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-12-30T11:37:33.853Z"}
+{"level":"info","message":"Order saved to database","orderId":645563445,"timestamp":"2024-12-30T11:37:40.177Z"}
+{"error":"The source phone number provided, +12184323334, is not yet verified for your account. You may only make calls from phone numbers that you've verified or purchased from Twilio.","level":"error","message":"Twilio call failed","orderId":"67728604f119121a47429a20","timestamp":"2024-12-30T11:37:40.789Z"}
+{"error":"The source phone number provided, +12184323334, is not yet verified for your account. You may only make calls from phone numbers that you've verified or purchased from Twilio.","level":"error","message":"Error processing order","orderId":645563445,"timestamp":"2024-12-30T11:37:40.792Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-30T11:38:48.253Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-12-30T11:38:48.277Z"}
+{"level":"info","message":"Order saved to database","orderId":64556345445,"timestamp":"2024-12-30T11:38:55.372Z"}
+{"error":"Authenticate","level":"error","message":"Twilio call failed","orderId":"6772864f8116e8d17aa70b60","timestamp":"2024-12-30T11:38:55.938Z"}
+{"error":"Authenticate","level":"error","message":"Error processing order","orderId":64556345445,"timestamp":"2024-12-30T11:38:55.939Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-30T11:41:08.474Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-12-30T11:41:08.494Z"}
+{"level":"info","message":"Order saved to database","orderId":645456345445,"timestamp":"2024-12-30T11:41:23.306Z"}
+{"error":"Authenticate","level":"error","message":"Twilio call failed","orderId":"677286e35e5f15649b784447","timestamp":"2024-12-30T11:41:23.930Z"}
+{"error":"Authenticate","level":"error","message":"Error processing order","orderId":645456345445,"timestamp":"2024-12-30T11:41:23.933Z"}
+{"error":"E11000 duplicate key error collection: COD.orders index: orderId_1 dup key: { orderId: \"645456345445\" }","level":"error","message":"Error processing order","orderId":645456345445,"timestamp":"2024-12-30T11:41:58.366Z"}
+{"level":"info","message":"Order saved to database","orderId":64545634445445,"timestamp":"2024-12-30T11:42:02.600Z"}
+{"error":"Authenticate","level":"error","message":"Twilio call failed","orderId":"6772870a5e5f15649b78444d","timestamp":"2024-12-30T11:42:27.329Z"}
+{"error":"Authenticate","level":"error","message":"Error processing order","orderId":64545634445445,"timestamp":"2024-12-30T11:42:27.332Z"}
+{"error":"E11000 duplicate key error collection: COD.orders index: orderId_1 dup key: { orderId: \"64545634445445\" }","level":"error","message":"Error processing order","orderId":64545634445445,"timestamp":"2024-12-30T11:52:24.554Z"}
+{"error":"E11000 duplicate key error collection: COD.orders index: orderId_1 dup key: { orderId: \"64545634445445\" }","level":"error","message":"Error processing order","orderId":64545634445445,"timestamp":"2024-12-30T11:52:48.726Z"}
+{"level":"info","message":"Order saved to database","orderId":45666,"timestamp":"2024-12-30T11:52:52.711Z"}
+{"error":"Authenticate","level":"error","message":"Twilio call failed","orderId":"677289945e5f15649b784456","timestamp":"2024-12-30T11:56:28.777Z"}
+{"error":"Authenticate","level":"error","message":"Error processing order","orderId":45666,"timestamp":"2024-12-30T11:56:28.781Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-30T11:56:39.972Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-12-30T11:56:39.998Z"}
+{"error":"E11000 duplicate key error collection: COD.orders index: orderId_1 dup key: { orderId: \"45666\" }","level":"error","message":"Error processing order","orderId":45666,"timestamp":"2024-12-30T11:56:47.017Z"}
+{"level":"info","message":"Order saved to database","orderId":45655566,"timestamp":"2024-12-30T11:56:50.416Z"}
+{"callSid":"CA0f636a2e7b2f4a783a684ea7d287be33","level":"info","message":"Twilio call initiated","orderId":"67728a8205d6afae0e12e958","timestamp":"2024-12-30T11:56:51.153Z"}
+{"error":"E11000 duplicate key error collection: COD.orders index: orderId_1 dup key: { orderId: \"45655566\" }","level":"error","message":"Error processing order","orderId":45655566,"timestamp":"2024-12-30T11:58:07.633Z"}
+{"level":"info","message":"Order saved to database","orderId":345554,"timestamp":"2024-12-30T11:58:13.803Z"}
+{"callSid":"CA2e8f7566bd6c695cfdb518a345cf1d5c","level":"info","message":"Twilio call initiated","orderId":"67728ad505d6afae0e12e95f","timestamp":"2024-12-30T11:58:14.405Z"}
+{"level":"info","message":"Order saved to database","orderId":53455,"timestamp":"2024-12-30T12:00:01.531Z"}
+{"callSid":"CA3b38b1756eacc7d411ee22533c10d40f","level":"info","message":"Twilio call initiated","orderId":"67728b4105d6afae0e12e963","timestamp":"2024-12-30T12:00:02.116Z"}
+{"error":"Order ID is missing","level":"error","message":"Error generating TwiML","timestamp":"2024-12-30T12:00:40.737Z"}
+{"error":"Order ID is missing","level":"error","message":"Error generating TwiML","timestamp":"2024-12-30T12:01:14.032Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-30T12:01:31.859Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-12-30T12:01:31.886Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-30T12:02:09.937Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-12-30T12:02:09.965Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-30T12:02:49.817Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-12-30T12:02:49.848Z"}
+{"error":"Order ID is missing","level":"error","message":"Error generating TwiML","timestamp":"2024-12-30T12:02:54.364Z"}
+{"level":"info","message":"Order saved to database","orderId":456456,"timestamp":"2024-12-30T12:03:03.508Z"}
+{"callSid":"CA746796f515a3ea5654f990edfdc44d0c","level":"info","message":"Twilio call initiated","orderId":"67728bf701ee98c66cde082f","timestamp":"2024-12-30T12:03:04.406Z"}
+{"level":"info","message":"Order saved to database","orderId":66666,"timestamp":"2024-12-30T12:03:35.199Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-30T12:03:55.376Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-12-30T12:03:55.404Z"}
+{"error":"E11000 duplicate key error collection: COD.orders index: orderId_1 dup key: { orderId: \"66666\" }","level":"error","message":"Error processing order","orderId":66666,"timestamp":"2024-12-30T12:04:08.152Z"}
+{"level":"info","message":"Order saved to database","orderId":567567,"timestamp":"2024-12-30T12:04:12.660Z"}
+{"callSid":"CA93cf491f28df526656c3ae538eb2609c","level":"info","message":"Twilio call initiated","orderId":"67728c3caa32fb393a881570","timestamp":"2024-12-30T12:04:13.495Z"}
+{"error":"E11000 duplicate key error collection: COD.orders index: orderId_1 dup key: { orderId: \"567567\" }","level":"error","message":"Error processing order","orderId":567567,"timestamp":"2024-12-30T12:04:49.696Z"}
+{"level":"info","message":"Order saved to database","orderId":5647567,"timestamp":"2024-12-30T12:04:54.602Z"}
+{"callSid":"CA9de071acbda7cca615a9fe24928de379","level":"info","message":"Twilio call initiated","orderId":"67728c66aa32fb393a881577","timestamp":"2024-12-30T12:04:55.020Z"}
+{"confirmed":true,"level":"info","message":"Order confirmation updated","orderId":"67728c66aa32fb393a881577","timestamp":"2024-12-30T12:05:20.365Z"}
+{"level":"info","message":"Order saved to database","orderId":5647456567,"timestamp":"2024-12-30T12:07:28.588Z"}
+{"callSid":"CA870bda7598766cc085fdc6e0efed0c8f","level":"info","message":"Twilio call initiated","orderId":"67728d00aa32fb393a88157c","timestamp":"2024-12-30T12:07:29.002Z"}
+{"confirmed":false,"level":"info","message":"Order confirmation updated","orderId":"67728d00aa32fb393a88157c","timestamp":"2024-12-30T12:07:46.673Z"}
+{"error":"E11000 duplicate key error collection: COD.orders index: orderId_1 dup key: { orderId: \"5647456567\" }","level":"error","message":"Error processing order","orderId":5647456567,"timestamp":"2024-12-30T12:08:56.819Z"}
+{"level":"info","message":"Order saved to database","orderId":64566,"timestamp":"2024-12-30T12:09:03.980Z"}
+{"callSid":"CA08e1d733eab16994917d6853b9a5ac32","level":"info","message":"Twilio call initiated","orderId":"67728d5faa32fb393a881584","timestamp":"2024-12-30T12:09:04.590Z"}
+{"confirmed":true,"level":"info","message":"Order confirmation updated","orderId":"67728d5faa32fb393a881584","timestamp":"2024-12-30T12:09:18.782Z"}
+{"level":"info","message":"Order saved to database","orderId":56474565567,"timestamp":"2024-12-30T12:15:25.902Z"}
+{"callSid":"CAaa521c053726c75a77c01a9bf30f9775","level":"info","message":"Twilio call initiated","orderId":"67728eddaa32fb393a881589","timestamp":"2024-12-30T12:15:26.469Z"}
+{"confirmed":true,"level":"info","message":"Order confirmation updated","orderId":"67728eddaa32fb393a881589","timestamp":"2024-12-30T12:15:42.513Z"}
+{"level":"info","message":"Order saved to database","orderId":56474565567,"timestamp":"2024-12-30T12:18:10.146Z"}
+{"callSid":"CAde529b206890131bca60d8e4ba5ed1a1","level":"info","message":"Twilio call initiated","orderId":"67728f82aa32fb393a88158e","timestamp":"2024-12-30T12:18:10.780Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-30T12:20:03.672Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-12-30T12:20:03.706Z"}
+{"level":"info","message":"Order saved to database","orderId":565474565567,"timestamp":"2024-12-30T12:20:18.449Z"}
+{"callSid":"CA2d70de1b7e050cb4432b546c246edf71","level":"info","message":"Twilio call initiated","orderId":"67729002caa0837f9aabfdcb","timestamp":"2024-12-30T12:20:19.365Z"}
+{"confirmed":true,"level":"info","message":"Order confirmation updated","orderId":"67729002caa0837f9aabfdcb","timestamp":"2024-12-30T12:20:47.759Z"}
+{"level":"info","message":"Order saved to database","orderId":565474565567,"timestamp":"2024-12-30T12:21:34.839Z"}
+{"callSid":"CA7eb9bffbc38d4aa5f0a4be19fc66bdf5","level":"info","message":"Twilio call initiated","orderId":"6772904ecaa0837f9aabfdd0","timestamp":"2024-12-30T12:21:35.479Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-30T12:23:07.822Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-12-30T12:23:07.856Z"}
+{"error":"E11000 duplicate key error collection: COD.orders index: orderId_1 dup key: { orderId: \"565474565567\" }","level":"error","message":"Error processing order","orderId":565474565567,"timestamp":"2024-12-30T12:23:12.927Z"}
+{"level":"info","message":"Order saved to database","orderId":44333,"timestamp":"2024-12-30T12:23:19.105Z"}
+{"callSid":"CA1f24edee0bb53b6703358e60e1c991d8","level":"info","message":"Twilio call initiated","orderId":"677290b7d25586f3def715a3","timestamp":"2024-12-30T12:23:19.795Z"}
+{"confirmed":true,"level":"info","message":"Order confirmation updated","orderId":"677290b7d25586f3def715a3","timestamp":"2024-12-30T12:23:52.673Z"}
+{"error":"E11000 duplicate key error collection: COD.orders index: orderId_1 dup key: { orderId: \"44333\" }","level":"error","message":"Error processing order","orderId":44333,"timestamp":"2024-12-30T12:27:13.579Z"}
+{"level":"info","message":"Order saved to database","orderId":4554545,"timestamp":"2024-12-30T12:27:18.930Z"}
+{"callSid":"CAb47e67e984b7fab5ddeba6078e3d84cd","level":"info","message":"Twilio call initiated","orderId":"677291a6d25586f3def715ac","timestamp":"2024-12-30T12:27:19.549Z"}
+{"confirmed":true,"level":"info","message":"Order confirmation updated","orderId":"677291a6d25586f3def715ac","timestamp":"2024-12-30T12:27:40.276Z"}
+{"error":"Phone number missing from order","level":"error","message":"Error processing order","timestamp":"2024-12-30T12:33:31.979Z"}
+{"level":"info","message":"Order saved to database","orderId":10267,"timestamp":"2024-12-30T12:34:34.736Z"}
+{"callSid":"CA592b2560652ee06a8d92a0c661b6e37c","level":"info","message":"Twilio call initiated","orderId":"6772935ad25586f3def715b2","timestamp":"2024-12-30T12:34:35.184Z"}
+{"confirmed":true,"level":"info","message":"Order confirmation updated","orderId":"6772935ad25586f3def715b2","timestamp":"2024-12-30T12:34:52.586Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-30T12:45:19.266Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-12-30T12:45:19.301Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-30T12:47:52.657Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-12-30T12:47:52.686Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-30T12:47:54.862Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-12-30T12:47:54.893Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-30T12:48:27.117Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-12-30T12:48:27.171Z"}
+{"level":"info","message":"Order saved to database","orderId":45544545,"timestamp":"2024-12-30T12:48:33.937Z"}
+{"error":"The source phone number provided, +12184323334, is not yet verified for your account. You may only make calls from phone numbers that you've verified or purchased from Twilio.","level":"error","message":"Twilio call failed","orderId":"677296a1f4aab9095b28ee75","timestamp":"2024-12-30T12:48:34.941Z"}
+{"error":"The source phone number provided, +12184323334, is not yet verified for your account. You may only make calls from phone numbers that you've verified or purchased from Twilio.","level":"error","message":"Error processing order","orderId":45544545,"timestamp":"2024-12-30T12:48:34.945Z"}
+{"error":"E11000 duplicate key error collection: COD.orders index: orderId_1 dup key: { orderId: \"45544545\" }","level":"error","message":"Error processing order","orderId":45544545,"timestamp":"2024-12-30T12:49:50.452Z"}
+{"level":"info","message":"Order saved to database","orderId":345345345,"timestamp":"2024-12-30T12:49:56.936Z"}
+{"error":"The source phone number provided, +12184323334, is not yet verified for your account. You may only make calls from phone numbers that you've verified or purchased from Twilio.","level":"error","message":"Twilio call failed","orderId":"677296f4f4aab9095b28ee7b","timestamp":"2024-12-30T12:49:57.329Z"}
+{"error":"The source phone number provided, +12184323334, is not yet verified for your account. You may only make calls from phone numbers that you've verified or purchased from Twilio.","level":"error","message":"Error processing order","orderId":345345345,"timestamp":"2024-12-30T12:49:57.332Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-30T12:51:26.380Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-12-30T12:51:26.403Z"}
+{"error":"E11000 duplicate key error collection: COD.orders index: orderId_1 dup key: { orderId: \"345345345\" }","level":"error","message":"Error processing order","orderId":345345345,"timestamp":"2024-12-30T12:51:29.317Z"}
+{"level":"info","message":"Order saved to database","orderId":345333345345,"timestamp":"2024-12-30T12:51:33.163Z"}
+{"callSid":"CA013a07a6bf2fff807b521db3bba14492","level":"info","message":"Twilio call initiated","orderId":"677297556a3c3e13cadc03ef","timestamp":"2024-12-30T12:51:34.029Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-30T12:54:43.760Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-12-30T12:54:43.804Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-30T12:54:59.184Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-12-30T12:54:59.205Z"}
+{"error":"E11000 duplicate key error collection: COD.orders index: orderId_1 dup key: { orderId: \"345333345345\" }","level":"error","message":"Error processing order","orderId":345333345345,"timestamp":"2024-12-30T12:55:04.213Z"}
+{"level":"info","message":"Order saved to database","orderId":5545533,"timestamp":"2024-12-30T12:55:11.435Z"}
+{"error":"Authenticate","level":"error","message":"Twilio call failed","orderId":"6772982f829c6036ecad71ac","timestamp":"2024-12-30T12:55:12.119Z"}
+{"error":"Authenticate","level":"error","message":"Error processing order","orderId":5545533,"timestamp":"2024-12-30T12:55:12.120Z"}
+{"error":"E11000 duplicate key error collection: COD.orders index: orderId_1 dup key: { orderId: \"5545533\" }","level":"error","message":"Error processing order","orderId":5545533,"timestamp":"2024-12-30T12:59:44.602Z"}
+{"level":"info","message":"Order saved to database","orderId":554553443,"timestamp":"2024-12-30T12:59:51.644Z"}
+{"error":"Authenticate","level":"error","message":"Twilio call failed","orderId":"67729947829c6036ecad71b2","timestamp":"2024-12-30T12:59:52.175Z"}
+{"error":"Authenticate","level":"error","message":"Error processing order","orderId":554553443,"timestamp":"2024-12-30T12:59:52.176Z"}
+{"level":"info","message":"Order saved to database","orderId":55423553443,"timestamp":"2024-12-30T12:59:56.672Z"}
+{"error":"Authenticate","level":"error","message":"Twilio call failed","orderId":"6772994c829c6036ecad71b5","timestamp":"2024-12-30T12:59:57.010Z"}
+{"error":"Authenticate","level":"error","message":"Error processing order","orderId":55423553443,"timestamp":"2024-12-30T12:59:57.012Z"}
+{"level":"info","message":"Order saved to database","orderId":2323,"timestamp":"2024-12-30T13:00:11.523Z"}
+{"error":"Authenticate","level":"error","message":"Twilio call failed","orderId":"6772995b829c6036ecad71b8","timestamp":"2024-12-30T13:00:11.855Z"}
+{"error":"Authenticate","level":"error","message":"Error processing order","orderId":2323,"timestamp":"2024-12-30T13:00:11.856Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-30T13:00:35.257Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-12-30T13:00:35.277Z"}
+{"error":"E11000 duplicate key error collection: COD.orders index: orderId_1 dup key: { orderId: \"2323\" }","level":"error","message":"Error processing order","orderId":2323,"timestamp":"2024-12-30T13:00:38.077Z"}
+{"level":"info","message":"Order saved to database","orderId":233323,"timestamp":"2024-12-30T13:00:41.377Z"}
+{"callSid":"CA9130aa04b42c9c732395cefc3497a4bc","level":"info","message":"Twilio call initiated","orderId":"67729979362be34c570cf325","timestamp":"2024-12-30T13:00:42.019Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-30T13:34:12.174Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-12-30T13:34:12.348Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-30T13:34:15.498Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-12-30T13:34:15.528Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-30T13:35:20.535Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-12-30T13:35:20.565Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-30T13:35:26.799Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-12-30T13:35:26.830Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-30T13:35:36.985Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-12-30T13:35:37.014Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-30T13:35:48.156Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-12-30T13:35:48.179Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-30T13:35:53.605Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-12-30T13:35:53.630Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-30T13:36:20.860Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-12-30T13:36:20.881Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-30T13:36:28.492Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-12-30T13:36:28.526Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-30T13:36:55.565Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-12-30T13:36:55.590Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-30T13:37:29.978Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-12-30T13:37:30.011Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-30T13:37:32.962Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-12-30T13:37:32.991Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-30T13:39:22.119Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-12-30T13:39:22.147Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-30T13:41:04.033Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-12-30T13:41:04.082Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-30T13:45:21.114Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-12-30T13:45:21.144Z"}
